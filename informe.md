@@ -130,8 +130,8 @@ Fin
 
 ## Mockups del software
 
-![Inicio y Fin](interfazMapa.png)
 ![Inicio y Fin](interfazPrograma.png)
+![Inicio y Fin](interfazMapa.png)
 
 ---
 
@@ -148,4 +148,5 @@ La creación de esta herramienta para generar y simplificar mapas de Karnaugh ha
 
 - Apache NetBeans (s.f.). Descargar NetBeans IDE. Recuperado de https://netbeans.apache.org/front/main/download/
 
-- YouTube (s.f.). Proyecto con interfaz gráfica para circuitos lógicos [Video]. Recuperado de https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLYvsggKtwbLX9rLDn1l-K6QtYo7m0yXWB
+- YouTube (s.f.). Curso de programación JAVA desde cero [Lista de reproducción]. Recuperado de https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB&ab_channel=LaGeekipediaDeErnesto
+
