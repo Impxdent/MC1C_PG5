@@ -124,7 +124,7 @@ Fin
 
 ## Implementación del Algoritmo a nivel de código
 
-![Inicio y Fin](Estructura.png) ![Inicio y Fin](lector.png)
+![Inicio y Fin](estructura.png) ![Inicio y Fin](lector.png)
 
 ---
 
