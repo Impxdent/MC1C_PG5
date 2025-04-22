@@ -20,8 +20,7 @@ public class InterfazGrafica extends JFrame {
         setLayout(new BorderLayout());
 
         JPanel panelSuperior = new JPanel(new BorderLayout());
-        lblBienvenida = new JLabel("Este programa analiza archivos xml, y mostrará el mapa de Karnaugh junto a "
-                + "su función booleana simplificada.", SwingConstants.CENTER);
+        lblBienvenida = new JLabel("Este programa analiza archivos xml, y mostrará el mapa de Karnaugh.", SwingConstants.CENTER);
         panelSuperior.add(lblBienvenida, BorderLayout.NORTH);
 
         lblHora = new JLabel("", SwingConstants.RIGHT);
@@ -59,8 +58,7 @@ public class InterfazGrafica extends JFrame {
 
             if (mapa != null) {
                 mostrarMapa(mapa);
-                String resultado = Simplificador.simplificarMapa(mapa);
-                areaResultado.setText(resultado);
+                areaResultado.setText("Mapa cargado correctamente con " + mapa.getNumVariables() + " variables.");
             } else {
                 areaResultado.setText("Error al cargar el archivo.");
             }
@@ -130,7 +128,6 @@ public class InterfazGrafica extends JFrame {
         panelMapa.add(panelTabla, BorderLayout.CENTER);
         panelMapa.revalidate();
         panelMapa.repaint();
-        
     }
 
     private JLabel celdaColoreada(int valor) {
@@ -146,5 +143,4 @@ public class InterfazGrafica extends JFrame {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
         lblHora.setText("Hora actual: " + LocalTime.now().format(formatter));
     }
-    
 }
