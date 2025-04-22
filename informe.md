@@ -7,6 +7,7 @@ SECCION “C”
 ## Autores
 Eldan Andre Escobar Asturias – Carnet: 202303088  
 Keneth Alexander Lopez Barrios – Carnet: 202307542
+
 Video de configuración: https://drive.google.com/file/d/1HDQMg3u3W4dcXCwGGuUH2-aTMh2NGYZo/view?usp=sharing
  
 ---
