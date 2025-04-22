@@ -108,6 +108,12 @@ Fin
 
 ![Inicio y Fin](main.png)
 ![Inicio y Fin](interfaz1.png)
+![Inicio y Fin](interfaz2.png)
+![Inicio y Fin](interfaz3.png)
+![Inicio y Fin](interfaz4.png)
+![Inicio y Fin](interfaz5.png)
+![Inicio y Fin](interfaz6.png)
+![Inicio y Fin](interfaz7.png)
 
 ![Inicio y Fin](mapa1.png)
 ![Inicio y Fin](mapa2.png)
